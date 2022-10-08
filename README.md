@@ -32,5 +32,6 @@ All experiments have been performed in [Google Colab](https://colab.research.goo
 </ul>
 
 ## Copyright:
-This repo is owned by Debanjan Saha, and it is illegal to copy any of the code without permission from the original author. \
-This repository has been made public for personal use only.
+This repo is owned and maintained by Debanjan Saha, and copyrighted © CC BY 4.0 to Debanjan Saha. \ 
+Attribution is required to the original author, indicating changes which were made. \
+This repository has been made public for "intended eyes" only.
