@@ -1,7 +1,9 @@
-# Fundamentals of Data Analytics (IE 5374)
+# Data Analytics and Visualization Projects
 ## Northeastern University - College of Engineering, Boston, MA
-## Faculty: S. Radhakrishnan
-## Author: Debanjan Saha
+## Notebook Owner: Debanjan Saha
+## Courses: Fundamentals of Data Analytics (IE5374), Computation and Visualization (IE6600)
+## Faculty: Sri Radhakrishnan (IE5374), Xi Tan (IE6600)
+
 
 ## Description
 This repo contains the various datasets which were discussed in the class. \
